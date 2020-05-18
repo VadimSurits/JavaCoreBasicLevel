@@ -1,6 +1,6 @@
 package ru.geekbrains.JavaCoreBacicLevel.homeWork1;
 
-public class Main {
+public class MainHW1 {
 
     public static void main(String[] args) { // задание 1
 
